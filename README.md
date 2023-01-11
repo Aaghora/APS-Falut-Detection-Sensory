@@ -29,4 +29,4 @@ git remove remove origin  #to disconnect a git repo connected with project
 ```
 ```
 git log #gives logs of all version and action taken on git
-
+```
