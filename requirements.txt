@@ -1,3 +1,19 @@
 pymongo
 pandas 
 numpy
+dill
+dnspython
+evidently
+fastapi
+httptools
+imblearn
+mypy-boto3-s3
+pip-chill
+python-dotenv
+types-s3transfer
+uvicorn
+watchfiles
+websockets
+wincertstore
+xgboost
+-e .
